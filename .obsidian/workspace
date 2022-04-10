@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_START HERE.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START HERE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START HERE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START HERE.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,11 +130,12 @@
   },
   "active": "d8878c909ec98bf7",
   "lastOpenFiles": [
-    "_START HERE.md",
     "README.md",
+    "_Dashboard.md",
+    "_assets/templates/t_episode.md",
     "CHANGELOG.md",
+    "README.md",
     "LICENSE.md",
-    "_assets/templates/t_daily.md",
     "daily/2022-04-09.md",
     "daily/2022-01-13.md",
     "START HERE.md"
