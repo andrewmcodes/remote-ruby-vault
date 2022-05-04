@@ -18,7 +18,7 @@
   "maxColWidth": "16em",
   "textNormal": 16,
   "textSmall": 13,
-  "imgGrid": false,
+  "imgGrid": true,
   "imgWidth": "img-default-width",
   "tableWidth": "table-default-width",
   "iframeWidth": "iframe-default-width",

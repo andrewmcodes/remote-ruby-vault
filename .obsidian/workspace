@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d8878c909ec98bf7",
+        "id": "73d40a125f72816e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "_Dashboard.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "_Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "_Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "_Dashboard.md"
               }
             }
           }
@@ -128,16 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8878c909ec98bf7",
+  "active": "73d40a125f72816e",
   "lastOpenFiles": [
-    "README.md",
     "_Dashboard.md",
-    "_assets/templates/t_episode.md",
-    "CHANGELOG.md",
-    "README.md",
-    "LICENSE.md",
-    "daily/2022-04-09.md",
-    "daily/2022-01-13.md",
-    "START HERE.md"
+    "dashboards/All Episodes.md",
+    "dashboards/Episodes by Guests.md",
+    "Episodes.md",
+    "10_Joined by \"Schneems\" (Richard Schneeman).md",
+    "12_What else can Rails add by default?.md",
+    "161_Paul Bahr aka \"Whats a GitHub?\" aka \"High School with Ashtrays\".md",
+    "dashboards/Episodes by Hosts.md",
+    "61_Concerns, Interactors, and Ruby 2.7 Features (Ruby 2.7 Christmas Day 🎉).md",
+    "README.md"
   ]
 }

@@ -1,11 +1,15 @@
-# Dashboard
+## Dashboards
 
----
+> View different data views of the episodes. Relies on [Dataview Plugin](obsidian://show-plugin?id=dataview)
 
-## Episodes
+- [[All Episodes]]
+- [[Episodes by Guests]]
+- [[Episodes by Hosts]]
 
-```dataview
-table published, guests, panelists, sponsor
-from #episode
-sort number desc
+## Episode List
+
+> Does not rely on [Dataview](obsidian://show-plugin?id=dataview)
+
+```query
+tag:#episode
 ```
