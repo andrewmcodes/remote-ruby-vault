@@ -37,7 +37,7 @@ Have you heard the great news? The Remote Ruby Podcast was voted one of the favo
 [00:42:35] Andrew asks Chris if he is going to monkey patch a gem where are you going to put that code?
 [00:46:35] Chris wonders what lib means and how it becomes a junk drawer and he mentions re-evaluating the naming the things.
 
-**Panelists**:: [[Chris Oliver]], [[Andrew Mason]], [[Jason Charnes]]
+**Panelists**:: [[Jason Charnes]], [[Chris Oliver]], [[Andrew Mason]]
 
 **Sponsor**:: [[Honeybadger]]
 

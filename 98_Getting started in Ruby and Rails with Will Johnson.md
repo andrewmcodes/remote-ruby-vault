@@ -38,7 +38,7 @@ Today we have a special guest, Will Johnson, self-taught developer, works for Eg
 [00:36:27] Will shares some things that he found that worked for him when he first started out, in terms of learning more about Ruby. He talks about how he didn’t get models.
 [00:43:48] Will tells us where we can find him online.
 
-**Panelists**:: [[Jason Charnes]], [[Andrew Mason]], [[Chris Oliver]]
+**Panelists**:: [[Jason Charnes]], [[Chris Oliver]], [[Andrew Mason]]
 
 **Guests** [[Will Johnson]]
 

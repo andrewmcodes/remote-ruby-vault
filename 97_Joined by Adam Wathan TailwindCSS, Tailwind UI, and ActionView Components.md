@@ -37,7 +37,7 @@ In this episode we welcome back a special guest, Adam Wathan, creator of Tailwin
 [00:49:46] Jason and Adam discuss table components and Adam mentions the Braid Design System and React Native Web.
 [00:57:34] Jason asks Adam if he has any bets on the new HEY technology that Basecamp is releasing.
 
-**Panelists**:: [[Jason Charnes]], [[Andrew Mason]], [[Chris Oliver]]
+**Panelists**:: [[Jason Charnes]], [[Chris Oliver]], [[Andrew Mason]]
 **Guests**:: [[Adam Wathan]]
 
 **Sponsor**:: [[Honeybadger]]

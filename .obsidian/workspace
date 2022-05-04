@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "73d40a125f72816e",
+        "id": "e5c0336dcdb30831",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Dashboard.md",
+            "file": "dashboards/Episodes by Hosts.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207
   },
   "right": {
     "id": "2c5ce0e13b3b3904",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Dashboard.md",
+                "file": "dashboards/Episodes by Hosts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Dashboard.md",
+                "file": "dashboards/Episodes by Hosts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Dashboard.md"
+                "file": "dashboards/Episodes by Hosts.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "73d40a125f72816e",
+  "active": "e5c0336dcdb30831",
   "lastOpenFiles": [
+    "dashboards/Episodes by Hosts.md",
+    "96_Managing Technical Debt, Vue 3, and Adding Linters to Legacy Code Bases.md",
+    "92_Rails Hosting Survey results and Junk Drawers for Code.md",
+    "166_Ben Orenstein - From Developer To CEO of Tuple.md",
+    "102_Webpacker in Engines and Dealing with Burnout.md",
+    "dashboards/Episodes by Guests.md",
     "_Dashboard.md",
     "dashboards/All Episodes.md",
-    "dashboards/Episodes by Guests.md",
     "Episodes.md",
-    "10_Joined by \"Schneems\" (Richard Schneeman).md",
-    "12_What else can Rails add by default?.md",
-    "161_Paul Bahr aka \"Whats a GitHub?\" aka \"High School with Ashtrays\".md",
-    "dashboards/Episodes by Hosts.md",
-    "61_Concerns, Interactors, and Ruby 2.7 Features (Ruby 2.7 Christmas Day 🎉).md",
-    "README.md"
+    "10_Joined by \"Schneems\" (Richard Schneeman).md"
   ]
 }

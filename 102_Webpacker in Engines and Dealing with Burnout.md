@@ -37,7 +37,7 @@ Chris and Andrew are here today! Chris starts off talking about going down the r
 [00:38:55] Chris asks Andrew if he has any thoughts on how he will keep himself balanced long term. We learn about Andrew’s relationship with people, especially with friends and family, and how he needs a support system and therapy. Chris tells us about his friendships and support groups and what has helped him.
 [00:53:13] Find out why Chris was trippin’ up the other day with the change on GitHub and Laravel Forge adding some error messages.
 
-**Panelists**:: [[Andrew Mason]], [[Chris Oliver]]
+**Panelists**:: [[Chris Oliver]], [[Andrew Mason]]
 
 **Sponsor**:: [[Honeybadger]]
 

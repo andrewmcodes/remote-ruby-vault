@@ -36,7 +36,7 @@ On today’s episode, Jason, Chris, and Andrew are trying to keep each other in 
 [00:40:00] Andrew tells Jason he needs to teach him how to come to terms with this issue and it will probably be like a karate kid kind of montage. ☺
 [00:40:29] Andrew talks about Rails Best Practices, Flog, and Flay, and wonders when do you decide if I need to keep this dependency because it will provide value if I use it, or this is not providing me value and I should just get rid of it.
 
-**Panelists**:: [[Jason Charnes]], [[Andrew Mason]], [[Chris Oliver]]
+**Panelists**:: [[Jason Charnes]], [[Chris Oliver]], [[Andrew Mason]]
 
 ## Links
 
